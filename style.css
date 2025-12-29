@@ -113,9 +113,8 @@ header {
     transition: all 0.3s ease;
 }
 
-.contact-info li:hover {
+#contactHasLink:hover {
     background: rgba(255, 255, 255, 0.2);
-    /* transform: translateY(-2px); */
 }
 
 .contact-info i {
